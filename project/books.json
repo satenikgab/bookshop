@@ -1,0 +1,52 @@
+{
+    "books": [
+    {
+        "id":101,
+        "title":"The Philosophy",
+        "price":40,
+        "photo":"https://koolskoolbookstore.com/cdn/shop/products/9781405353298-2_1024x1024.jpg?v=1628225241"
+    },
+    {
+        "id":102,
+        "title":"The Philosophy",
+        "price":45,
+        "photo":"https://sp-uploads.s3.amazonaws.com/uploads/services/3333599/20220319112923_6235be934cbbd_the_philosophy_book__big_ideas_simply_explained__by_dk__will_buckingham__douglas_burnham__peter_j._king__clive_hill__marcus_weeks__john_marenbon__z_lib.org_page0.png"
+    },
+    {
+        "id":103,
+        "title":"The Psychology",
+        "price":48,
+        "photo":"https://static.periplus.com/sc_7PJBM6UkK1G4oThCsQCI0JQqd1p1wqfcE8s3W.b1nEZpOQd5hW3yW4ZPdWTMdw--"
+    },
+    {
+        "id":104,
+        "title":"The Politics",
+        "price":42,
+        "photo":"https://static.periplus.com/g_9BIwYSPt1.Ib4_5Sva246BiD1ptCOpewwch_963M_VnPH57DlgaQLx50bUuYANA--"
+    },
+    {
+        "id":105,
+        "title":"The Feminism",
+        "price":52,
+        "photo":"https://static.periplus.com/uEgX8WERmfHlT6lQXPUYrvXast7Hel1JyDLjIUPI8cHy5v2VswWrTNKi_KzO188jA--"
+    },
+    {
+        "id":106,
+        "title":"The Literature",
+        "price":34,
+        "photo":"https://static.periplus.com/nNeSUnuFbyFRRjmdWfH9b7khBQ4g7GTxI.YQSgFzIaQJodR_MP20Y9z7ZUhDBR9ow--"
+    },
+    {
+        "id":107,
+        "title":"The Bible book",
+        "price":47,
+        "photo":"https://m.media-amazon.com/images/I/81K2tA6F6VL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id":108,
+        "title":"The Religions",
+        "price":50,
+        "photo":"https://static.periplus.com/hpUJO7maoOFQ8zHAiSpGim2ziJwRYpAcrERM2mKThsPvPeDENlukj7BY0epszGKmA--"
+    }
+    ]
+}
